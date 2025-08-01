@@ -25,6 +25,6 @@ A secure and scalable RESTful API built with **Node.js** and **MongoDB** that al
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/asmaaraafat27/Anonymous-Messaging-API.git
-cd Anonymous-Messaging-API
+git clone https://github.com/asmaaraafat27/Saraha-App.git
+
 
